@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          "Golf is the best sport!" - Russell Maxfield
+          "Dirt biking is the best sport!" - Russell Maxfield
         </p>
         <a
           className="App-link"
